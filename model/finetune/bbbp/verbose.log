@@ -1,0 +1,12 @@
+Fold 0
+Loading data
+Fold 0
+Loading data
+Number of tasks = 1
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading model 0 from model/tryout/bbbp/
